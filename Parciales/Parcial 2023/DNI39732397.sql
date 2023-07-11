@@ -206,7 +206,6 @@ uno con datos correctos.
 *******************************************************************************************/
 DROP PROCEDURE IF EXISTS NuevoProducto;
 
-
 DELIMITER //
 
 CREATE PROCEDURE NuevoProducto(
